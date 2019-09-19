@@ -33,6 +33,7 @@ namespace Aula2
                 Console.WriteLine($"media: {media} Aluno reprovado ");
             }
 
+            
         }
     }
 }

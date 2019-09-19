@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\obj\Debug\netcoreapp2.2\ativ.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\obj\Debug\netcoreapp2.2\ativ.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\obj\Debug\netcoreapp2.2\ativ.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\obj\Debug\netcoreapp2.2\ativ.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\bin\Debug\netcoreapp2.2\ativ.deps.json
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\bin\Debug\netcoreapp2.2\ativ.runtimeconfig.json
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\bin\Debug\netcoreapp2.2\ativ.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\bin\Debug\netcoreapp2.2\ativ.dll
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\bin\Debug\netcoreapp2.2\ativ.pdb
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\obj\Debug\netcoreapp2.2\ativ.dll
+C:\Users\fic\Desktop\SENI-backend-CSharp\ativ\obj\Debug\netcoreapp2.2\ativ.pdb

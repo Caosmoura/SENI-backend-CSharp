@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\bin\Debug\netcoreapp2.2\exer 5 desafio.deps.json
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\bin\Debug\netcoreapp2.2\exer 5 desafio.runtimeconfig.json
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\bin\Debug\netcoreapp2.2\exer 5 desafio.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\bin\Debug\netcoreapp2.2\exer 5 desafio.dll
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\bin\Debug\netcoreapp2.2\exer 5 desafio.pdb
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\obj\Debug\netcoreapp2.2\exer 5 desafio.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\obj\Debug\netcoreapp2.2\exer 5 desafio.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\obj\Debug\netcoreapp2.2\exer 5 desafio.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\obj\Debug\netcoreapp2.2\exer 5 desafio.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\obj\Debug\netcoreapp2.2\exer 5 desafio.dll
+C:\Users\fic\Desktop\SENI-backend-CSharp\exer 5 desafio\obj\Debug\netcoreapp2.2\exer 5 desafio.pdb

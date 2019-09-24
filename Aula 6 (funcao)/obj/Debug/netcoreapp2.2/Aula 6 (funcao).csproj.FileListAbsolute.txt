@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\bin\Debug\netcoreapp2.2\Aula 6 (funcao).deps.json
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\bin\Debug\netcoreapp2.2\Aula 6 (funcao).runtimeconfig.json
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\bin\Debug\netcoreapp2.2\Aula 6 (funcao).runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\bin\Debug\netcoreapp2.2\Aula 6 (funcao).dll
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\bin\Debug\netcoreapp2.2\Aula 6 (funcao).pdb
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\obj\Debug\netcoreapp2.2\Aula 6 (funcao).csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\obj\Debug\netcoreapp2.2\Aula 6 (funcao).csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\obj\Debug\netcoreapp2.2\Aula 6 (funcao).AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\obj\Debug\netcoreapp2.2\Aula 6 (funcao).AssemblyInfo.cs
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\obj\Debug\netcoreapp2.2\Aula 6 (funcao).dll
+C:\Users\fic\Desktop\SENI-backend-CSharp\Aula 6 (funcao)\obj\Debug\netcoreapp2.2\Aula 6 (funcao).pdb
